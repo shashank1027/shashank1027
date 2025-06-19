@@ -30,9 +30,12 @@ I'm a **Data Scientist & ML Engineer** passionate about solving real-world probl
 ## 📌 Project Highlights
 
 - 🔍 **Loan Approval Prediction** – Logistic regression model with EDA & Flask API deployment    
-- 📊 **Churn Analysis Dashboard** – BI report using Power BI and backend Python models  
+- 📊 **Churn Analysis Dashboard** – BI report using Power BI and backend Python models
 
 ---
+## 🏆 Certifications
+(https://www.credly.com/badges/da9a7bfc-9d29-4def-8572-54603dbbd55e/public_url)
+
 
 ## 💡 What I'm Exploring
 
