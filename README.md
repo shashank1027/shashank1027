@@ -34,7 +34,10 @@ I'm a **Data Scientist & ML Engineer** passionate about solving real-world probl
 
 ---
 ## 🏆 Certifications
+AWS AI PRACTITIONER
 (https://www.credly.com/badges/da9a7bfc-9d29-4def-8572-54603dbbd55e/public_url)
+DataBricks Gen AI Fundamentals
+(https://api.accredible.com/v1/auth/invite?code=6765a7795d36a035e2fa&credential_id=e26b0dc6-deb1-4906-9758-28860c40a401&url=https%3A%2F%2Fcredentials.databricks.com%2Fe26b0dc6-deb1-4906-9758-28860c40a401&ident=e7c3c3a3-def4-41c6-985f-438e87127370/)
 
 
 ## 💡 What I'm Exploring
