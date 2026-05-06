@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shashank Reddy Lankala
 
-I'm a ** ML Engineer** passionate about solving real-world problems through data and intelligent systems. With experience across the data science lifecycle—from data collection to model deployment—I build robust, scalable, and insightful solutions using modern tools and cloud platforms.
+I'm passionate about solving real-world problems through data and intelligent systems. With experience across the data science lifecycle—from data collection to model deployment,I build robust, scalable, and insightful solutions using modern tools and cloud platforms.
 
 ---
 
